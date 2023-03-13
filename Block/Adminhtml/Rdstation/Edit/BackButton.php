@@ -1,4 +1,3 @@
-
 <?php
 
 namespace Vanguarda\RdStation\Block\Adminhtml\Rdstation\Edit;
